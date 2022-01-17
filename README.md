@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @timothyhyun
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ... Mathematics and Computer Science at Carnegie Mellon University
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Data Science and Backend Software Development
+- 🌱 I’m currently learning Information Systems and Computer Science at Carnegie Mellon University
+- 💞️ I’m looking for a Summer 2022 Software Engineering Internship
 - 📫 How to reach me ... thyun@andrew.cmu.edu
 
 <!---
